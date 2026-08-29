@@ -26,7 +26,7 @@ export async function POST(request: Request) {
 
     const { data, error } = await resend.emails.send({
       from: "Sun Sai Website <onboarding@resend.dev>",
-      to: ["aryaamoriya@gmail.com"],
+      to: ["aryaamoriya@gmail.com", "pardhantravel.neeta@gmail.com"],
       subject: `New Sun Sai Enquiry from ${name}`,
       html: `
         <div style="font-family: Arial, sans-serif; line-height: 1.6;">
