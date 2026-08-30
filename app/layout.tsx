@@ -11,7 +11,7 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: "Sun Sai | Tours & Travels Services in Noida",
+    default: "Sun Sai Transportation | Tours & Travels Services in Noida",
     template: "%s | Sun Sai",
   },
   description: 
