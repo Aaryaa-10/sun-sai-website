@@ -1,6 +1,6 @@
-# Sun Sai Travels
+# Sun Sai Transport Company
 
-Official website for Sun Sai Travels — a transportation service
+Official website for Sun Sai Transport Comapny — a transportation service
 providing reliable group and institutional transportation across
 Delhi NCR and throughout India.
 

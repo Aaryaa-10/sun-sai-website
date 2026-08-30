@@ -11,11 +11,11 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: "Sun Sai Transportation | Tours & Travels Services in Noida",
-    template: "%s | Sun Sai",
+    default: "Sun Sai Transport Company | Tours & Travels Services in Noida",
+    template: "%s | Sun Sai Transport Company",
   },
   description: 
-  "Sun Sai provides reliable corporate, institutional and group transportation services across India, Established in 1999.",
+  "Sun Sai Transport Company provides reliable corporate, institutional and group transportation services across India, Established in 1999.",
 };
 
 export default function RootLayout({

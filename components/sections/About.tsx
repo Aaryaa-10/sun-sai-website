@@ -68,12 +68,12 @@ export default function About() {
                 <span className="h-px w-10 bg-gold" />
 
                 <p className="text-sm font-semibold uppercase tracking-[0.25em] text-blue-deep">
-                  About Sun Sai
+                  About Sun Sai Transport Company
                 </p>
               </div>
 
               <p className="mt-7 max-w-sm text-sm leading-7 text-midnight/50">
-                Established in 1999, Sun Sai has grown through years of
+                Established in 1999, Sun Sai Transport Company has grown through years of
                 experience in transportation and travel services.
               </p>
             </div>

@@ -195,7 +195,7 @@ export default function Enquiry() {
                     </h3>
 
                     <p className="mt-4 max-w-md leading-7 text-white/55">
-                      Thank you for contacting Sun Sai. Our team will get back
+                      Thank you for contacting Sun Sai Transport Company. Our team will get back
                       to you shortly.
                     </p>
 

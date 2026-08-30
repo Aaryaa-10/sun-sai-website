@@ -177,7 +177,7 @@ export default function Services() {
                   <div className="relative z-10 mt-8 flex items-center justify-between">
 
                     <span className="text-xs font-medium uppercase tracking-[0.2em] text-white/25 transition-colors duration-500 group-hover:text-white/45">
-                      Sun Sai
+                      Sun Sai Transport Company
                     </span>
 
                     <div className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 transition-all duration-500 group-hover:border-gold/40 group-hover:bg-gold/10">

@@ -25,12 +25,12 @@ export async function POST(request: Request) {
     }
 
     const { data, error } = await resend.emails.send({
-      from: "Sun Sai Travels <noreply@sunsaitravels.com>",
+      from: "Sun Sai Transport Company <noreply@sunsaitravels.com>",
       to: ["aryaamoriya@gmail.com", "pardhantravel.neeta@gmail.com"],
-      subject: `New Sun Sai Enquiry from ${name}`,
+      subject: `New Sun Sai Transport Company Enquiry from ${name}`,
       html: `
         <div style="font-family: Arial, sans-serif; line-height: 1.6;">
-          <h2>New Sun Sai Website Enquiry</h2>
+          <h2>New Sun Sai Transport Company Website Enquiry</h2>
 
           <p><strong>Name:</strong> ${name}</p>
           <p><strong>Email:</strong> ${email}</p>

@@ -13,7 +13,7 @@ export default function NavBar() {
                     </div>
                     <div className="leading-none">
                         <p className="text-lg font-bold tracking-wide text-white">
-                            SUN SAI
+                            SUN SAI Transport Company
                         </p>
                         <p className="mt-1 text-[10px] uppercase tracking-[0.25em] text-white/70">
                         Since 1999

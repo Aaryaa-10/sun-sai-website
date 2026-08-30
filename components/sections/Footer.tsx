@@ -71,7 +71,7 @@ export default function Footer() {
 
               <div className="leading-none">
                 <p className="text-lg font-bold tracking-wide">
-                  SUN SAI
+                  SUN SAI Transport Company
                 </p>
 
                 <p className="mt-1 text-[10px] uppercase tracking-[0.25em] text-white/45">

@@ -147,7 +147,7 @@ export default function Fleet() {
                   {/* Bottom image label */}
                   <div className="absolute bottom-5 left-5 z-10">
                     <span className="rounded-full border border-white/20 bg-midnight/25 px-3 py-1.5 text-[10px] font-semibold uppercase tracking-[0.18em] text-white/80 backdrop-blur-md">
-                      Sun Sai Fleet
+                      Sun Sai Transport Co. Fleet
                     </span>
                   </div>
                 </div>
